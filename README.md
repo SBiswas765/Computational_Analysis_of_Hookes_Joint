@@ -37,7 +37,7 @@ Ideal for:
 Install Python 3 and the required libraries:
 
 ## ▶️ Run the Script
-<pre> ```bash python hookes_joint_analysis.py ``` </pre>
+<pre> ```python hookes_joint_analysis.py ``` </pre>
 
 
 
