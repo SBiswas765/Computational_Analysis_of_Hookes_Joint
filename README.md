@@ -46,5 +46,19 @@ Follow the CLI prompts:
 - Polar plot with min/max speeds and angular markers
 - Real-time animation of joint movement for 100 frames
 
+# 🛠 Technologies Used
+- Python 3
+- NumPy
+- Matplotlib
+- Matplotlib's FuncAnimation for simulation
+
+# 📚 Applications
+- Kinematic study of mechanical linkages
+- Classroom demonstrations of universal joint behaviour
+- Design validation for shafts with angular misalignment
+
+# 📄 License
+This project is open-source and free to use under the MIT License.
+
 
 
