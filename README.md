@@ -12,7 +12,6 @@ Ideal for:
 ## 📌 Features
 
 - 🧮 **Analytical Calculation**  
-  Computes:
   - Input/output shaft speeds (RPM)
   - Output shaft angular acceleration (rad/s²)
   - Characteristic angles: θ₁, θ₂, θ₃, θ₄
@@ -37,7 +36,15 @@ Ideal for:
 Install Python 3 and the required libraries:
 
 ## ▶️ Run the Script
-<pre> ```python hookes_joint_analysis.py ``` </pre>
+<pre> python hookes_joint_analysis.py </pre>
+
+Follow the CLI prompts:
+-Enter driving shaft speed in RPM
+-Enter the angle between shafts in degrees
+
+# 📽 Output Preview
+-Polar plot with min/max speeds and angular markers
+-Real-time animation of joint movement for 100 frames
 
 
 
