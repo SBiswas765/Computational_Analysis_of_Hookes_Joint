@@ -40,8 +40,8 @@ Install Python 3 and the required libraries:
 <pre> pip install numpy matplotlib </pre>
 
 These libraries are used for:
-- **NumPy** → Mathematical computations and array operations
-- **Matplotlib** → Plotting the polar velocity diagram and creating animations using FuncAnimation
+- `NumPy` → Mathematical computations and array operations
+- `Matplotlib` → Plotting the polar velocity diagram and creating animations using FuncAnimation
 
 ## ▶️ Run the Script
 <pre> python hookes_joint_analysis.py </pre>
