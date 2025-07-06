@@ -1,11 +1,11 @@
 # 🔩 Computational_Analysis_of_Hookes_Joint
 
-A Python tool to **analyze and visualize the kinematics** of a Hooke's (universal) joint. It calculates critical parameters like shaft speeds, angular acceleration, and angles (θ₁–θ₄), then generates both a **polar velocity diagram** and a **real-time simulation** of the joint's motion.
+A Python tool to **analyze and visualize the kinematics** of a Hooke's Universal Joint. It calculates critical parameters like shaft speeds, angular acceleration, and angles (θ₁–θ₄), then generates both a **polar velocity diagram** and a **real-time simulation** of the joint's motion.
 
-Ideal for:
-- 🛠 Mechanical design validation  
-- 🎓 Educational demonstrations  
-- 📊 Kinematic analysis projects  
+Ideal for And Used For
+- 🛠 Mechanical Design Validation  
+- 🎓 Educational Demonstrations  
+- 📊 Kinematic Analysis Projects  
 
 ---
 
