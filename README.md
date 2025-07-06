@@ -58,7 +58,7 @@ Follow the CLI prompts:
 - Python 3
 - NumPy
 - Matplotlib
-- Matplotlib's FuncAnimation for simulation
+- Matplotlib's <pre> FuncAnimation <pre> for simulation
 
 # 📚 Applications
 - Kinematic study of mechanical linkages
