@@ -35,6 +35,14 @@ Ideal for And Used For
 
 Install Python 3 and the required libraries:
 
+### ✅ Required Python Libraries
+
+<pre> pip install numpy matplotlib </pre>
+
+These libraries are used for:
+- **NumPy** → mathematical computations and array operations
+- **Matplotlib** → plotting the polar velocity diagram and creating animations using FuncAnimation
+
 ## ▶️ Run the Script
 <pre> python hookes_joint_analysis.py </pre>
 
