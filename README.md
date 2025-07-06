@@ -36,4 +36,6 @@ Ideal for:
 
 Install Python 3 and the required libraries:
 
+## ▶️ Run the Script
+
 
