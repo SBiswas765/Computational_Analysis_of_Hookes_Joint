@@ -39,12 +39,12 @@ Install Python 3 and the required libraries:
 <pre> python hookes_joint_analysis.py </pre>
 
 Follow the CLI prompts:
--Enter driving shaft speed in RPM
--Enter the angle between shafts in degrees
+- Enter driving shaft speed in RPM
+- Enter the angle between shafts in degrees
 
 # 📽 Output Preview
--Polar plot with min/max speeds and angular markers
--Real-time animation of joint movement for 100 frames
+- Polar plot with min/max speeds and angular markers
+- Real-time animation of joint movement for 100 frames
 
 
 
