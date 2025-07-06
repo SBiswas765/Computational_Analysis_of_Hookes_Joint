@@ -40,4 +40,45 @@ Install Python 3 and the required libraries:
 pip install numpy matplotlib
 This project is open-source and free to use under the MIT License.
 
+## 🚀 Getting Started
 
+### 📦 Prerequisites
+Ensure Python 3.x is installed along with the following libraries:
+
+```bash
+pip install numpy matplotlib
+
+# ▶️ Run the Script
+bash
+Copy
+Edit
+python hookes_joint_analysis.py
+Follow the CLI prompts:
+
+Enter driving shaft speed in RPM
+
+Enter angle between shafts in degrees
+
+📽 Output Preview
+Polar plot with min/max speeds and angular markers
+
+Real-time animation of joint movement for 100 frames
+
+🛠 Technologies Used
+Python 3
+
+NumPy
+
+Matplotlib
+
+Matplotlib's FuncAnimation for simulation
+
+📚 Applications
+Kinematic study of mechanical linkages
+
+Classroom demonstrations of universal joint behavior
+
+Design validation for shafts with angular misalignment
+
+📄 License
+This project is open-source and free to use under the MIT License.
