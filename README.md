@@ -40,8 +40,8 @@ Install Python 3 and the required libraries:
 <pre> pip install numpy matplotlib </pre>
 
 These libraries are used for:
-- **NumPy** → mathematical computations and array operations
-- **Matplotlib** → plotting the polar velocity diagram and creating animations using FuncAnimation
+- **NumPy** → Mathematical computations and array operations
+- **Matplotlib** → Plotting the polar velocity diagram and creating animations using FuncAnimation
 
 ## ▶️ Run the Script
 <pre> python hookes_joint_analysis.py </pre>
@@ -58,7 +58,7 @@ Follow the CLI prompts:
 - Python 3
 - NumPy
 - Matplotlib
-- Matplotlib's <pre> FuncAnimation <pre> for simulation
+- Matplotlib's `FuncAnimation` for simulation
 
 # 📚 Applications
 - Kinematic study of mechanical linkages
